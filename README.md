@@ -1,7 +1,24 @@
 # Sardi Vintage
 
-Anno December 2016 Sardi v9 was introduced. Some of the icons were abandoned.
+Anno December 2016 Sardi v9 was introduced. 
+Some of the icons were abandoned because they can be recreated easily by changing the line
+
+	Inherits=Sardi,Numix-Circle,Numix,breeze,gnome,hicolor
+
+or
+
+	by copy/pasting folders around
+
+or
+
+	by running scripts like Sardi Flat Majestic.
+
 They will be stored here.
+
+##Svg's have been cleaned but no further development will done here.
+
+
+##These icons are frozen in time.
 
 
 # F  A  Q
