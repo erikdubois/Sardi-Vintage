@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="24"
+   width="24"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="edit-clear.svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1019"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="32.496094"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="13"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <g
+     id="layer12"
+     transform="translate(-365 61.003)"
+     style="fill:#333334;fill-opacity:1">
+    <path
+       id="rect6867"
+       opacity=".5"
+       d="m374-55.003-5 6 5 6h11v-12zm2 3h1c0.277 0 0.52628 0.11222 0.70703 0.29297l1.293 1.293 1.293-1.293c0.18075-0.18075 0.43003-0.29297 0.70703-0.29297h1v1c0 0.277-0.11222 0.52628-0.29297 0.70703l-1.293 1.293 1.293 1.293c0.18075 0.18075 0.29297 0.43003 0.29297 0.70703v1h-1c-0.277 0-0.52628-0.11222-0.70703-0.29297l-1.293-1.293-1.293 1.293c-0.18075 0.18075-0.43003 0.29297-0.70703 0.29297h-1v-1c0-0.277 0.11222-0.52628 0.29297-0.70703l1.293-1.293-1.293-1.293c-0.18075-0.18075-0.29297-0.43003-0.29297-0.70703z"
+       style="fill:#333334;fill-opacity:1" />
+  </g>
+</svg>
