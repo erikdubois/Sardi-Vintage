@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Sardi
+Name=Sardi Vintage
 Comment=Simple and flat icon theme with long shadow
-Inherits=Numix-Circle,Numix,gnome,hicolor
+Inherits= Sardi,Numix-Circle,Numix,gnome,hicolor
 Example=folder
 
 
